@@ -1,3 +1,8 @@
+---
+layout: default
+title: Application Privacy Statement
+---
+
 # Application Privacy Statement
 
 This privacy statement (“Privacy Statement”) applies to the treatment of personally identifiable information submitted by, or otherwise obtained from, you in connection with the associated application (“Application”). The Application is provided by Jaxen Wood (and may be provided by Jaxen Wood on behalf of a Jaxen Wood licensor or partner (“Application Partner”). By using or otherwise accessing the Application, you acknowledge that you accept the practices and policies outlined in this Privacy Statement.
